@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blue Money</string>
+    <string name="app_slogan">Buy nothing, pay for it anyway</string>
+    <string name="start_text">Pay up now</string>
+    <string name="product_description">You will be getting absolutley nothing. What\'s great is you have the means to afford it. Click \"Pay Now\" to purchase. All sales are final.</string>
+    <string name="buy_now">Pay Now</string>
+</resources>

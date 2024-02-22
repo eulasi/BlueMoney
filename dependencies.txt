@@ -1,0 +1,33 @@
+
+> Task :app:dependencies
+
+------------------------------------------------------------
+Project ':app'
+------------------------------------------------------------
+
+implementation - Implementation only dependencies for 'main' sources. (n)
++--- androidx.core:core-ktx:1.12.0 (n)
++--- androidx.lifecycle:lifecycle-runtime-ktx:2.7.0 (n)
++--- androidx.activity:activity-compose:1.8.2 (n)
++--- androidx.compose:compose-bom:2023.08.00 (n)
++--- androidx.compose.ui:ui (n)
++--- androidx.compose.ui:ui-graphics (n)
++--- androidx.compose.ui:ui-tooling-preview (n)
++--- androidx.compose.material3:material3 (n)
++--- androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0 (n)
++--- androidx.appcompat:appcompat:1.6.1 (n)
++--- androidx.room:room-compiler:2.6.1 (n)
++--- com.paypal.android:card-payments:1.2.0 (n)
++--- com.paypal.sdk:paypal-android-sdk:2.16.0 (n)
++--- com.paypal.checkout:android-sdk:1.2.1 (n)
++--- com.squareup.retrofit2:retrofit:2.9.0 (n)
++--- com.squareup.retrofit2:converter-gson:2.9.0 (n)
++--- com.squareup.okhttp3:logging-interceptor:4.9.1 (n)
+\--- androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-alpha02 (n)
+
+(n) - A dependency or dependency configuration that cannot be resolved.
+
+A web-based, searchable dependency report is available by adding the --scan option.
+
+BUILD SUCCESSFUL in 609ms
+1 actionable task: 1 executed
